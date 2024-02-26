@@ -1,0 +1,46 @@
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+number is even or odd 
+
+start 
+if the number is divisible by 2
+print even 
+else 
+print odd 
+end 
+
+
+Sum of five numbers and smallest and largest entered number
+start 
+input five numbers (a,b,c,d,e)
+add the numbers 
+sum = a+b+c+d+e
+average = sum % total numbers(5)
+print sum
+
+start
+lets take number a 
+compare it with rest of numbers (b,c,d,e)
+if it the smallest number then end
+print 
+else 
+    contine the same steps with rest of the numbers
+print the samllest number     
+
+let take number a
+compare it with rest of the number 
+if it is largest number then end 
+    print
+else
+    continue the same steps with rest of the numbers 
+    print the largest number    
+
+
